@@ -18,13 +18,14 @@ body{
     font-family: 'Montserrat';
     text-transform: uppercase;
     line-height: 4rem;
-    color: #1cdba5;
+    color: #345de4;
     margin: 13rem 0px 20px 0px;
 }
 
 .container .container-text h1 span{
+    font-weight: 900;
     font-size: 5.2rem;
-    color: #1cdb8b;
+    color: #b0a6da;
     
 }
 
@@ -34,7 +35,7 @@ body{
     font-size: 0.9rem;
     letter-spacing: 10px;
     text-transform: uppercase;
-    color: azure;
+    color: #1c75db;
     margin-top: 10px;
 }
 
