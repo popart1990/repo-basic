@@ -39,7 +39,7 @@ body{
     margin-top: 10px;
 }
 
-section .container{
+.hero .container{
     display: block;
     background-color: #101217;
     width: 100%;
